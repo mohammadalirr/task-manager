@@ -1,0 +1,14 @@
+.card {
+    padding: .5em 1em;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content:space-between;
+    margin: 1rem 0rem;
+}
+
+.father {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}

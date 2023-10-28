@@ -1,0 +1,43 @@
+nav {
+    padding: 2rem 0;
+}
+
+.father {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.fa-bars{
+color: rgb(255, 0, 0);
+}
+
+
+
+.rot {
+    transform: rotate(90deg);
+}
+
+/* .button
+{
+        width: 46px;
+        height: 35px;
+        background-color: #5db7e9;
+        margin-left: -5px;
+        border-radius: 0 20% 20% 0;
+        text-shadow: 3px 0px 3px lightgray;
+    
+}
+
+.button:hover
+{   
+   padding: 5px 5px 0 0  ;
+}
+
+.input {
+    width: 600px;
+    height: 30px;
+    background: linear-gradient(white , silver);
+
+} */
+
